@@ -20,3 +20,10 @@ import Halogen.HTML.Properties as HP
 ```
 
 The project itself is written in Halogen and is based off https://github.com/qwaneu/purescript-halogen-template
+
+## Alternatives
+
+### tailwind-purs
+https://github.com/gillchristian/tailwind-purs
+
+This tool has a html2purs command which interprents all CSS classes as being tailwind classes. It can be a bit buggy (see readme), your mileage may vary
